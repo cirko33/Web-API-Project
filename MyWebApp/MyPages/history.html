@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Istorija</title>
+    <link rel="icon" href="../myicon.ico" type="image/x-icon" />
+    <script src="../Scripts/jquery-3.6.0.js"></script>
+    <script src="Scripts/common.js" type="text/javascript"></script>
+    <script src="Scripts/history.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="../Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="Scripts/style.css" />
+</head>
+<body>
+    <nav class="nav bg-black justify-content-center">
+        <a class="nav-link active" href="index.html">Home</a>
+    </nav>
+    <div id="search" class="form-group">
+        <h3>Pretraga</h3>
+        <label>Naziv:</label>
+        <input id="name" class="form-control"/>
+        <label>Tip treninga:</label>
+        <select id="trainingType" class="form-select">
+                <option></option>
+                <option>YOGA</option>
+                <option>LES MILLS TONE</option>
+                <option>BODYATTACK</option>
+                <option>LES MILLS CORE</option>
+        </select>
+        <label>Naziv centra:</label>
+        <input id="centerName" class="form-control"/>
+        <br/>
+        <input type="submit" value="Pretrazi" id="find" class="btn btn-primary"/>
+    </div>
+    <div id="History"></div>
+    <div id="sortHistory">
+        <h3>Sortiranje</h3>
+        <label>Sortiraj:</label>
+        <select id="sortBy" class="form-select-sm">
+            <option value="Naziv">Naziv</option>
+            <option value="Tip">Tip treninga</option>
+            <option value="Vreme">Datum i vreme</option>
+        </select>
+        <select id="sortOrder" class="form-select-sm">
+            <option>Rastuce</option>
+            <option>Opadajuce</option>
+        </select>
+        <input type="submit" value="Sortiraj" id="sort" class="btn btn-primary"/>
+        <br />
+    </div>
+</body>
+</html>

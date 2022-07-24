@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOwner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Owner>
+    <Username>dejan</Username>
+    <Password>dejan</Password>
+    <Name>Dejan</Name>
+    <Lastname>Markovic</Lastname>
+    <Gender>Musko</Gender>
+    <Email>dejan00@gmail.com</Email>
+    <Role>Owner</Role>
+    <BirthDate>24/03/2000</BirthDate>
+    <FitnessCenters>
+      <int>0</int>
+      <int>1</int>
+    </FitnessCenters>
+  </Owner>
+  <Owner>
+    <Username>cirko</Username>
+    <Password>cirko</Password>
+    <Name>Luka</Name>
+    <Lastname>Ciric</Lastname>
+    <Gender>Musko</Gender>
+    <Email>luka.ciric@gmail.com</Email>
+    <Role>Owner</Role>
+    <BirthDate>21/06/2000</BirthDate>
+    <FitnessCenters>
+      <int>2</int>
+    </FitnessCenters>
+  </Owner>
+</ArrayOfOwner>

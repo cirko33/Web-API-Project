@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGroupTraining xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupTraining>
+    <Id>0</Id>
+    <Name>Yoga</Name>
+    <TrainingType>YOGA</TrainingType>
+    <FitnessCenter>
+      <Deleted>false</Deleted>
+      <Id>0</Id>
+      <Name>Total Gym</Name>
+      <Address>Balzakova 10, Beograd, 11000</Address>
+      <YearOfOpening>2012</YearOfOpening>
+      <Owner>dejan</Owner>
+      <MonthMembershipFee>3000</MonthMembershipFee>
+      <YearMembershipFee>30000</YearMembershipFee>
+      <OneTrainingFee>1000</OneTrainingFee>
+      <OneGroupTrainingFee>800</OneGroupTrainingFee>
+      <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+    </FitnessCenter>
+    <TrainingDuration>60</TrainingDuration>
+    <DateTimeOfTraining>06/07/2022 18:00</DateTimeOfTraining>
+    <MaxNumberOfVisitors>2</MaxNumberOfVisitors>
+    <Visitors>
+      <string>jeca</string>
+    </Visitors>
+    <Deleted>false</Deleted>
+    <History>false</History>
+  </GroupTraining>
+  <GroupTraining>
+    <Id>1</Id>
+    <Name>Max</Name>
+    <TrainingType>LESMILLSCORE</TrainingType>
+    <FitnessCenter>
+      <Deleted>false</Deleted>
+      <Id>0</Id>
+      <Name>Total Gym</Name>
+      <Address>Balzakova 10, Beograd, 11000</Address>
+      <YearOfOpening>2012</YearOfOpening>
+      <Owner>dejan</Owner>
+      <MonthMembershipFee>3000</MonthMembershipFee>
+      <YearMembershipFee>30000</YearMembershipFee>
+      <OneTrainingFee>1000</OneTrainingFee>
+      <OneGroupTrainingFee>800</OneGroupTrainingFee>
+      <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+    </FitnessCenter>
+    <TrainingDuration>30</TrainingDuration>
+    <DateTimeOfTraining>10/07/2022 10:00</DateTimeOfTraining>
+    <MaxNumberOfVisitors>1</MaxNumberOfVisitors>
+    <Visitors>
+      <string>jeca</string>
+    </Visitors>
+    <Deleted>false</Deleted>
+    <History>false</History>
+  </GroupTraining>
+  <GroupTraining>
+    <Id>2</Id>
+    <Name>YogaNew</Name>
+    <TrainingType>YOGA</TrainingType>
+    <FitnessCenter>
+      <Deleted>false</Deleted>
+      <Id>0</Id>
+      <Name>Total Gym</Name>
+      <Address>Balzakova 10, Beograd, 11000</Address>
+      <YearOfOpening>2012</YearOfOpening>
+      <Owner>dejan</Owner>
+      <MonthMembershipFee>3000</MonthMembershipFee>
+      <YearMembershipFee>30000</YearMembershipFee>
+      <OneTrainingFee>1000</OneTrainingFee>
+      <OneGroupTrainingFee>800</OneGroupTrainingFee>
+      <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+    </FitnessCenter>
+    <TrainingDuration>60</TrainingDuration>
+    <DateTimeOfTraining>06/07/2022 18:00</DateTimeOfTraining>
+    <MaxNumberOfVisitors>2</MaxNumberOfVisitors>
+    <Visitors />
+    <Deleted>false</Deleted>
+    <History>false</History>
+  </GroupTraining>
+  <GroupTraining>
+    <Id>3</Id>
+    <Name>Body</Name>
+    <TrainingType>BODYATTACK</TrainingType>
+    <FitnessCenter>
+      <Deleted>false</Deleted>
+      <Id>0</Id>
+      <Name>Total Gym</Name>
+      <Address>Balzakova 10, Beograd, 11000</Address>
+      <YearOfOpening>2012</YearOfOpening>
+      <Owner>dejan</Owner>
+      <MonthMembershipFee>3000</MonthMembershipFee>
+      <YearMembershipFee>30000</YearMembershipFee>
+      <OneTrainingFee>1000</OneTrainingFee>
+      <OneGroupTrainingFee>800</OneGroupTrainingFee>
+      <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+    </FitnessCenter>
+    <TrainingDuration>60</TrainingDuration>
+    <DateTimeOfTraining>06/07/2021 15:00</DateTimeOfTraining>
+    <MaxNumberOfVisitors>2</MaxNumberOfVisitors>
+    <Visitors>
+      <string>jeca</string>
+      <string>baki</string>
+    </Visitors>
+    <Deleted>false</Deleted>
+    <History>false</History>
+  </GroupTraining>
+  <GroupTraining>
+    <Id>4</Id>
+    <Name>LESS CORE</Name>
+    <TrainingType>LESMILLSCORE</TrainingType>
+    <FitnessCenter>
+      <Deleted>false</Deleted>
+      <Id>0</Id>
+      <Name>Total Gym</Name>
+      <Address>Balzakova 10, Beograd, 11000</Address>
+      <YearOfOpening>2012</YearOfOpening>
+      <Owner>dejan</Owner>
+      <MonthMembershipFee>3000</MonthMembershipFee>
+      <YearMembershipFee>30000</YearMembershipFee>
+      <OneTrainingFee>1000</OneTrainingFee>
+      <OneGroupTrainingFee>800</OneGroupTrainingFee>
+      <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+    </FitnessCenter>
+    <TrainingDuration>30</TrainingDuration>
+    <DateTimeOfTraining>06/08/2021 12:00</DateTimeOfTraining>
+    <MaxNumberOfVisitors>10</MaxNumberOfVisitors>
+    <Visitors>
+      <string>jeca</string>
+    </Visitors>
+    <Deleted>false</Deleted>
+    <History>false</History>
+  </GroupTraining>
+  <GroupTraining>
+    <Id>5</Id>
+    <Name>TeleYoga</Name>
+    <TrainingType>YOGA</TrainingType>
+    <FitnessCenter>
+      <Deleted>false</Deleted>
+      <Id>0</Id>
+      <Name>Total Gym</Name>
+      <Address>Balzakova 10, Beograd, 11000</Address>
+      <YearOfOpening>2012</YearOfOpening>
+      <Owner>dejan</Owner>
+      <MonthMembershipFee>3000</MonthMembershipFee>
+      <YearMembershipFee>30000</YearMembershipFee>
+      <OneTrainingFee>1000</OneTrainingFee>
+      <OneGroupTrainingFee>800</OneGroupTrainingFee>
+      <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+    </FitnessCenter>
+    <TrainingDuration>30</TrainingDuration>
+    <DateTimeOfTraining>12/12/2021 10:00</DateTimeOfTraining>
+    <MaxNumberOfVisitors>5</MaxNumberOfVisitors>
+    <Visitors>
+      <string>jeca</string>
+    </Visitors>
+    <Deleted>false</Deleted>
+    <History>false</History>
+  </GroupTraining>
+</ArrayOfGroupTraining>

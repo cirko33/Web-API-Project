@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Fitnes centri</title>
+    <link rel="icon" href="../myicon.ico" type="image/x-icon" />
+    <script src="../Scripts/jquery-3.6.0.js"></script>
+    <script src="Scripts/common.js" type="text/javascript"></script>
+    <script src="Scripts/fitnesscenters.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="../Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="Scripts/style.css" />
+</head>
+<body>
+    <nav class="nav bg-black justify-content-center">
+        <a class="nav-link active" href="index.html">Home</a>
+    </nav>
+    <div>
+        <h3>Unos novog fitnes centra</h3>
+    </div>
+    <div id="addFitnessCenter" style="display: flex;">
+        <div class="form-group my-group">
+            <label>Naziv:</label>
+            <input id="name" class="form-control" placeholder="Naziv" />
+
+            <label>Adresa:</label>
+            <input id="street" placeholder="Ulica" class="form-control" style="margin-bottom:5px;" />
+            <input id="number" placeholder="Broj" class="form-control" style="margin-bottom:5px;" />
+            <input id="city" placeholder="Mesto/Grad" class="form-control" style="margin-bottom:5px;" />
+            <input id="postNumber" type="number" placeholder="Postanski broj" class="form-control" style="margin-bottom:5px;" />
+        </div>
+        <div class="form-group my-group">
+            <label>Godina otvaranja fitnes centra:</label>
+            <input id="yearOfOpening" type="number" class="form-control" placeholder="Godina" />
+
+            <label>Cena mesecne clanarine:</label>
+            <input id="monthMembershipFee" type="number" class="form-control" placeholder="Mesecno u RSD" />
+
+            <label>Cena godisnje clanarine:</label>
+            <input id="yearMembershipFee" type="number" class="form-control" placeholder="Godisnje u RSD" />
+        </div>
+        <div class="form-group my-group">
+            <label>Cena jednog treninga:</label>
+            <input id="oneTrainingFee" type="number" class="form-control" placeholder="Trening u RSD" />
+
+            <label>Cena jednog grupnog treninga:</label>
+            <input id="oneGroupTrainingFee" type="number" class="form-control" placeholder="Grupni trening u RSD" />
+
+            <label>Cena jednog treninga sa personalnim trenerom:</label>
+            <input id="onePersonalTrainingFee" type="number" class="form-control" placeholder="Personalni trening u RSD" />
+            <br />
+        </div>
+    </div>
+    <div>
+        <input type="submit" id="submit" value="Dodaj fitnes centar" class="btn btn-primary" />
+        <br />
+    </div>
+    <div id="centers"></div>
+    <div id="updateView"></div>
+</body>
+</html>

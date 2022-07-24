@@ -1,0 +1,46 @@
+﻿
+h3 {
+    color: black;
+}
+
+label{
+    font-size: 18px;
+    color: black;
+}
+
+body {
+    background-image: url("../../background.png");
+}
+
+div{
+    margin: 10px 20px;
+}
+
+.form-group{
+    width: 30%
+}
+
+.my-group{
+    margin: 10px 30px 10px 0; 
+}
+
+table td {
+    padding-left: 10px;
+}
+table th {
+    text-align: center;
+}
+
+input[type=date], input[type=datetime-local]{
+    width: 100%;
+    border-width: 0px;
+    border-radius: 4px;
+    padding: 4px;
+    height: 40px;
+}
+
+table {
+    background-color: rgba(51, 255, 255, 0.6);
+    color: black;
+    border-radius: 7px; 
+}

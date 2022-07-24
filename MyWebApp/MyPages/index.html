@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Home</title>
+    <link rel="icon" href="../myicon.ico" type="image/x-icon" />
+    <script src="../Scripts/jquery-3.6.0.js"></script>
+    <script src="Scripts/common.js" type="text/javascript"></script>
+    <script src="Scripts/index.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="../Content/bootstrap.min.css" />
+    <link rel="stylesheet" href="Scripts/style.css" />
+</head>
+    <body>
+        <nav class="nav bg-black justify-content-center">
+            <a class="nav-link active" href="index.html">Home</a>
+        </nav>
+        <div id="Search" class="form-group">
+            <h3>Pretraga fitnes centara</h3>
+            <label>Naziv:</label>
+            <input id="name" class="form-control" />
+            <label>Adresa:</label>
+            <input id="address" class="form-control" />
+            <label>Otvorena od (godine):</label>
+            <input id="minYear" type="number" min="1900" class="form-control" />
+            <label>Otvorena do (godine):</label>
+            <input id="maxYear" type="number" min="1900" class="form-control" />
+            <br/>
+            <input type="submit" value="Pretrazi" class="btn btn-primary" id="find" />
+        </div>
+        <div id="FitCenterTable"></div>
+        <div id="SortDiv">
+            <h3>Sortiranje fitnes centara</h3>
+            <label>Sortiraj:</label>
+            <select id="sortBy" class="form-select-sm">
+                <option>Ime</option>
+                <option>Adresa</option>
+                <option>Godina</option>
+            </select>
+            <select id="sortOrder" class="form-select-sm">
+                <option>Rastuce</option>
+                <option>Opadajuce</option>
+            </select>
+            <input type="submit" value="Sortiraj" id="sort" class="btn btn-primary"/>
+        </div>
+    </body>
+</html>

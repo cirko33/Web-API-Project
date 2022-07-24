@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTrainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Trainer>
+    <Username>vladana</Username>
+    <Password>vladana</Password>
+    <Name>Vladana</Name>
+    <Lastname>Lukic</Lastname>
+    <Gender>Zensko</Gender>
+    <Email>vladana00@gmail.com</Email>
+    <Role>Trainer</Role>
+    <BirthDate>21/02/1995</BirthDate>
+    <Trainings>
+      <int>0</int>
+      <int>2</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+    </Trainings>
+    <FitnessCenter>0</FitnessCenter>
+    <Blocked>false</Blocked>
+  </Trainer>
+  <Trainer>
+    <Username>vladan</Username>
+    <Password>vladan</Password>
+    <Name>Vladan</Name>
+    <Lastname>Mikic</Lastname>
+    <Gender>Drugo</Gender>
+    <Email>vladan00@gmail.com</Email>
+    <Role>Trainer</Role>
+    <BirthDate>21/02/1997</BirthDate>
+    <Trainings>
+      <int>1</int>
+    </Trainings>
+    <FitnessCenter>0</FitnessCenter>
+    <Blocked>false</Blocked>
+  </Trainer>
+  <Trainer>
+    <Username>miki</Username>
+    <Password>miki</Password>
+    <Name>Milan</Name>
+    <Lastname>Rakic</Lastname>
+    <Gender>Musko</Gender>
+    <Email>miki00@gmail.com</Email>
+    <Role>Trainer</Role>
+    <BirthDate>01/07/1995</BirthDate>
+    <Trainings />
+    <FitnessCenter>1</FitnessCenter>
+    <Blocked>false</Blocked>
+  </Trainer>
+  <Trainer>
+    <Username>laki</Username>
+    <Password>laki</Password>
+    <Name>Lazar</Name>
+    <Lastname>Lukic</Lastname>
+    <Gender>Musko</Gender>
+    <Email>laki00@gmail.com</Email>
+    <Role>Trainer</Role>
+    <BirthDate>21/02/1995</BirthDate>
+    <Trainings />
+    <FitnessCenter>2</FitnessCenter>
+    <Blocked>false</Blocked>
+  </Trainer>
+</ArrayOfTrainer>

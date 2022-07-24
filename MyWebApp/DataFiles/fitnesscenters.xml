@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFitnessCenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FitnessCenter>
+    <Deleted>false</Deleted>
+    <Id>0</Id>
+    <Name>Total Gym</Name>
+    <Address>Balzakova 10, Beograd, 11000</Address>
+    <YearOfOpening>2012</YearOfOpening>
+    <Owner>dejan</Owner>
+    <MonthMembershipFee>3000</MonthMembershipFee>
+    <YearMembershipFee>30000</YearMembershipFee>
+    <OneTrainingFee>1000</OneTrainingFee>
+    <OneGroupTrainingFee>800</OneGroupTrainingFee>
+    <OnePersonalTrainingFee>3000</OnePersonalTrainingFee>
+  </FitnessCenter>
+  <FitnessCenter>
+    <Deleted>false</Deleted>
+    <Id>1</Id>
+    <Name>Maximalium</Name>
+    <Address>Strazilovska 5, Novi Sad, 21000</Address>
+    <YearOfOpening>2010</YearOfOpening>
+    <Owner>dejan</Owner>
+    <MonthMembershipFee>2000</MonthMembershipFee>
+    <YearMembershipFee>20000</YearMembershipFee>
+    <OneTrainingFee>800</OneTrainingFee>
+    <OneGroupTrainingFee>800</OneGroupTrainingFee>
+    <OnePersonalTrainingFee>2000</OnePersonalTrainingFee>
+  </FitnessCenter>
+  <FitnessCenter>
+    <Deleted>false</Deleted>
+    <Id>2</Id>
+    <Name>Titan Gym</Name>
+    <Address>Mise Dimitrijevica bb, Novi Sad, 21000</Address>
+    <YearOfOpening>2005</YearOfOpening>
+    <Owner>cirko</Owner>
+    <MonthMembershipFee>3500</MonthMembershipFee>
+    <YearMembershipFee>32000</YearMembershipFee>
+    <OneTrainingFee>1000</OneTrainingFee>
+    <OneGroupTrainingFee>800</OneGroupTrainingFee>
+    <OnePersonalTrainingFee>3500</OnePersonalTrainingFee>
+  </FitnessCenter>
+</ArrayOfFitnessCenter>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfComment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Comment>
+    <Visitor>jeca</Visitor>
+    <FitnessCenter>0</FitnessCenter>
+    <Text>Nije lose</Text>
+    <Mark>3</Mark>
+    <Status>ACCEPTED</Status>
+    <Id>0</Id>
+  </Comment>
+  <Comment>
+    <Visitor>baki</Visitor>
+    <FitnessCenter>0</FitnessCenter>
+    <Text>Ocajno</Text>
+    <Mark>1</Mark>
+    <Status>DECLINED</Status>
+    <Id>1</Id>
+  </Comment>
+  <Comment>
+    <Visitor>baki</Visitor>
+    <FitnessCenter>0</FitnessCenter>
+    <Text>Okej je</Text>
+    <Mark>4</Mark>
+    <Status>UNRESOLVED</Status>
+    <Id>2</Id>
+  </Comment>
+</ArrayOfComment>

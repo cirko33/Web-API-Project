@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVisitor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Visitor>
+    <Username>jeca</Username>
+    <Password>jeca</Password>
+    <Name>Jelena</Name>
+    <Lastname>Belic</Lastname>
+    <Gender>Zensko</Gender>
+    <Email>jeca@gmail.com</Email>
+    <Role>Visitor</Role>
+    <BirthDate>31/07/2000</BirthDate>
+    <Trainings>
+      <int>1</int>
+      <int>3</int>
+      <int>4</int>
+      <int>5</int>
+    </Trainings>
+  </Visitor>
+  <Visitor>
+    <Username>baki</Username>
+    <Password>baki</Password>
+    <Name>Bajaga</Name>
+    <Lastname>Nikolic</Lastname>
+    <Gender>Musko</Gender>
+    <Email>baki@yahoo.com</Email>
+    <Role>Visitor</Role>
+    <BirthDate>20/12/1990</BirthDate>
+    <Trainings>
+      <int>3</int>
+    </Trainings>
+  </Visitor>
+</ArrayOfVisitor>
